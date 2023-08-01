@@ -1,5 +1,11 @@
+# Dotenv file
 .env
 
+# Downloads from gbif using gbif_api module
 download_*
 
+# Madaclim db files
 *.tif
+
+# Test files
+test.py
